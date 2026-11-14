@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ROADIUM</string>
+    <string name="notif_channel">경기 중계</string>
+    <string name="notif_text_reserved">중계 예약됨 · 주행을 시작하면 자동으로 중계합니다</string>
+    <string name="notif_text_live">중계 중 · 홈런·골 같은 순간을 소리로 알려 드립니다</string>
+    <string name="notif_stop">중계 끄기</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.ROADIUM" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/roadium_bg</item>
+        <item name="android:statusBarColor">@color/roadium_bg</item>
+        <item name="android:navigationBarColor">@color/roadium_bg</item>
+    </style>
+</resources>

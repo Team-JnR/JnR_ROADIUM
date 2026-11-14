@@ -1,0 +1,23 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 경기장 관중석(타원 링) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFC31A"
+        android:strokeWidth="5"
+        android:pathData="M28,50 A26,14 0 1,1 80,50 A26,14 0 1,1 28,50 Z" />
+    <!-- 도로(경기장으로 이어지는 원근 도로) -->
+    <path
+        android:fillColor="#3D8BFF"
+        android:pathData="M48,60 L60,60 L72,84 L36,84 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M53,64 L55,64 L55.6,70 L52.4,70 Z M52.2,73 L55.8,73 L56.6,80 L51.4,80 Z" />
+    <!-- 공(결정적 순간) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,42 m-6,0 a6,6 0 1,0 12,0 a6,6 0 1,0 -12,0" />
+</vector>
